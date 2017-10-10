@@ -58,7 +58,7 @@ Other integrations I've used in my classes include Google Docs (which makes it e
 
 These integrations tend to be most helpful for group projects. In order to keep tabs on how groups are doing, I create private Slack channels for each group and ask them to use that--rather than texting, FB messenger, or other chat tools. That allows me to respond to questions or problems in the group, and also makes it easy for them to set up specific integrations with their groups' Google Docs, Dropbox folders, and/or Trello projects. 
 
-### Committment to Quick Responses
+### Commitment to Quick Responses
 Most importantly, I've committed to responding quickly to student messages. I have the Slack client on my phone's home screen, and I check for new notifications at least twice a day. If a message can be answered quickly, I do it then. If not, I acknowledge it, let them know I'll get back to them, and mark it with a star for later access. When I have a little more time, I go through my starred messages and respond in more depth. 
 
 (The example below also shows how easy it is for them to share code with me in their messages.)

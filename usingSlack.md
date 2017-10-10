@@ -5,7 +5,7 @@
 
 myCourses provides us with group and private chat options, as well as discussion forums. So why add another tool to the mix? And why Slack in particular?
 
-- RIT is a co-op education school, which means our students go out on semester-long work experiences several times during their degree. Many of them will end up at companies using Slack, so this gives them hands-on experience with an important productivity tool.
+- When our students graduate or go out on co-op, many of them will end up at companies using Slack for workgroup communication. This gives them hands-on experience with an important productivity tool.
 - Slack has excellent mobile clients, which is typically the very best way to reach my students. (As we all know, email is pretty low on the list of ways to get your students' attention quickly.)
 - Slack's integrations, especially with Google Docs, GitHub, and Trello, are extremely useful in my classes, where those services are also an important part of the instructional technology used. 
 - Slack makes it easy for students to upload the files they want me to look at, and it properly displays/formats code files.

@@ -42,13 +42,13 @@ I've done only a small amount of customization on this workspace. Click on the  
 I'll talk more about how I use Slack, and how to customize it, in the [Using Slack](usingSlack.md) section of the workshop. In the meantime, however, feel free to use the \#general channel to chat about the session as we go along. (Full disclosure: I won't stay logged into this workspace after the workshop is over, so while you can continue to chat with other participants, you won't be able to ask me questions there. Feel free to email me, though!)
 
 ## MyCourses Integration and Student Privacy
-Our students already have far too many different tools and sites that they need to keep track of, and I wanted to be sure that I wasn't making things harder for them by moving my content to a new space. I also needed to make sure that I wasn't violating student privacy by making content public that shouldn't be
+Our students already have far too many different tools and sites that they need to keep track of, and I wanted to be sure that I wasn't making things harder for them by moving my content to a new space. I also needed to make sure that I wasn't violating student privacy by making personally identifiable information public.
 
-myCourses allows us to modify the navigation bar for a course, so I used that functionality to remove the existing links to the "Content" and "Discussion" sections, and replace them with direct links to the syllabus and the schedule of topics/readings on GitHub, as well as to the Slack workspace. Same starting point, same number of clicks for students, but different destination for the links.
+MyCourses allows faculty to modify the navigation bar for a course, so I used that functionality to remove the existing links to the "Content" and "Discussion" sections, and replace them with direct links to the syllabus and the schedule of topics/readings on GitHub, as well as to the Slack workspace. Same starting point, same number of clicks for students, but different destination for the links.
 
 ![LMS navigation bar](images/lms-navbar.png)
 
-I still keep all personally identifiable information--classlists, grades, etc--in myCourses. I limit access to the class Slack to people with @rit.edu addresses for the first week to make it easy for students to sign up, and then change it to invitation-only after add/drop has ended. 
+I still keep all personally identifiable information--classlists, grades, etc--in myCourses. I also limit access to the class Slack to people with @rit.edu addresses for the first week to make it easy for students to sign up, and then change it to invitation-only after add/drop has ended. 
 
 
 | [Main Page](README.md) | [Next: Using GitHub for Course Materials](usingGithub.md) |

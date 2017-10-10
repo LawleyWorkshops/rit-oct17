@@ -27,19 +27,17 @@ At its core, Slack is a group messaging tool. It provides a group workspace with
 There's a lot more to Slack than than text messaging, though, which is one of the reasons it has become so popular in business settings. (That's also why, even in the ["What is Slack?"](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) portion of their Getting Started guide, the description is pretty vague!) One of Slack's most powerful features is that it can be extended with a wide variety of apps that integrate it with other online services--from Google Docs and Dropbox to Trello and even GitHub. 
 
 ### Joining the Workshop Slack
-The best way to understand how Slack works is to actually play around with it, so I've created a workspace for this workshop. Here's the invitation link to join it: http://links.lawley.net/joinDML (Because invitation links are a little unwieldy, I used a link shortener on my domain to redirect to the invitation; that also lets me replace the invitation URL with a new one if necessary.) 
+The best way to understand how Slack works is to actually play around with it, so I've created a workspace for this workshop. I've set it up so that anyone with an @rit.edu address can join it. https://ritworkshop-oct17.slack.com/messages  
 
-Slack workspaces can be set up with a generic invitation link for joining (like this one), which has an expiration date (in this case, October 9th). You can also generate individual invitations to specific email addresses. And finally, you can configure them allow anyone with an email address in a specific domain to join, which is what I use for my classes. 
+>**Note**: If you already use Slack with another group or project, be aware that every Slack workspace is a completely separate instantiation--a login on one Slack workspace can't be used on any other workspace. This can also be confusing for students who are already using Slack for other purposes. You can be logged into different workspaces in different tabs on the same browser, though, and all of the Slack clients allow you to be logged into multiple workspaces. 
 
-You'll be able to return to the workspace in the future by using this URL rather than the invite link: https://dml2017-lawley.slack.com/ (keep in mind, however, that I generally don't stay logged into Slacks from past classes and events, so while it's a fine way to explore the features, it won't be a good way to reach me directly). 
-
->If you already use Slack with another group or project, be aware that every Slack workspace is a completely separate instantiation--a login on one Slack workspace can't be used on any other workspace. This can also be confusing for students who are already using Slack for other purposes. You can be logged into different workspaces in different tabs on the same browser, though, and all of the Slack clients allow you to be logged into multiple workspaces. 
+Slack workspaces can also be set up with a generic invitation link for joining; those invitations expire after a set date. And/or you can generate individual invitations to specific email addresses. 
 
 Here's what my Mac desktop client looks like when I'm logged into the workspaces for both of my current classes and the one for this workspace:
 
-![Slack DML Workspace Screenshot](images/usingSlack-DMLworkspace.png)
+![Slack Workspace Screenshot](images/slack-workspace.png)
 
-I've done only a small amount of customization on this workspace. Click on the  **Channels** heading (the word itself, not the plus sign), to see a list of available channels in the workspace. In addition to the two channels (\#general and \#random) that are created by default in a new workspace, there should be two additional channels visible to you: \#introductions and \#github. Go ahead and join the \#introductions channel, and post a brief intro there. 
+I've done only a small amount of customization on this workspace. Click on the  **Channels** heading (the word itself, not the plus sign), to see a list of available channels in the workspace. In addition to the two channels (\#general and \#random) that are created by default in a new workspace, there should be three additional channels visible to you: \#introductions, \#github, and \#music-suggestions. Go ahead and join the \#introductions channel, and post a brief intro there. 
 
 After you've posted your intro, take a look at the \#github channel. This is an example of a Slack integration. I've set it up so that every time I send changes to the GitHub repo for the workshop, that information is automatically posted to this channel. In my classes, this lets students see if and when I've made changes to the syllabus or assignments--and what the short description of those changes are. 
 
@@ -48,13 +46,13 @@ You may also want to customize your notification settings for this Slack so you 
 ![Slack notification settings](images/slack-notification-settings.png
 )
 
-Feel free to use the \#general channel to chat about the session as we go along. (Full disclosure, though: I won't stay logged into this workspace after DML is over, so it won't be a good place to ask me questions after that!)
+Feel free to use the \#general channel to chat about the session as we go along. (Full disclosure: I won't stay logged into this workspace after the workshop is over, so while you can continue to chat with other participants, you won't be able to ask me questions there. Feel free to email me, though!)
 
 | [Main Page](README.md) | [Next: Using GitHub for Course Materials](usingGithub.md) |
 |--------------------------------|-----------------------------------------------------|
 
-***This page is part of Liz Lawley's [Fork Your Syllabus, You Slacker! : A DML Teach-In, 6 October 2017](https://dml2017.sched.com/event/0f03a40b042cc1a6f4e73a78a62d0305)***
 
+***This page is part of Liz Lawley's "RIT Teachers on Teaching" workshop, 11 October 2017***
 
 
 

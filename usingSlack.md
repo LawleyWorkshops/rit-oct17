@@ -5,9 +5,8 @@
 
 myCourses provides us with group and private chat options, as well as discussion forums. So why add another tool to the mix? And why Slack in particular?
 
-- College students typically don't check their email frequently--and when they do, they see it as a formal medium for communicating with authority figures, rather than a casual medium for asking quick questions. Providing an easy-to-use robust messaging system with a good mobile client makes it more likely that they'll use it to ask questions and interact with me and classmates.
+- College students typically don't check their email frequently--and when they do, they see it as a formal medium for communicating with authority figures, rather than a casual medium for asking quick questions. Providing an easy-to-use robust messaging system with a good mobile client makes it more likely that they'll see announcements quickly, and that they'll use it to ask questions and interact with me and classmates.
 - When our students graduate or go out on co-op, many of them will end up at companies using Slack for workgroup communication. This gives them hands-on experience with an important productivity tool.
-- Slack has excellent mobile clients, which is typically the very best way to reach my students. (As we all know, email is pretty low on the list of ways to get your students' attention quickly.)
 - Slack's integrations, especially with Google Docs, GitHub, and Trello, are extremely useful in my classes, where those services are also an important part of the instructional technology used. 
 - Slack makes it easy for students to upload the files they want me to look at, and it properly displays/formats code files.
 - I can easily create private group chat channels for student groups, and be a member of those channels, which helps greatly in assessing ongoing participation and group dynamics issues.

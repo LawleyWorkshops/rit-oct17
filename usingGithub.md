@@ -27,9 +27,9 @@ Let's take a look at the GitHub repo for the first-year survey class that I'm te
 
 ![GitHub README page with syllabus](images/github-readme.png)
 
-The site has three files, and two directories. The README.md file is the default file displayed in a repo, so that's where I put the syllabus. The other two files are the schedule of topics and readings (Schedule.md) and the license for the repo (in this case, a Creative Commons 4.0 license that allows reuse and modification, but requires that I be given attribution, and that the resulting work not be used commercially.) All of my in-class and homework exercises are stored in the weekly_materials folder, organized by week, and project assignments are in the projects folder. Everything in the subfolders is linked to from either the syllabus or the schedule. 
+All of my class sites include three files, and two directories. The README.md file is the default file displayed in a repo, so that's where I put the syllabus. The other two files are the schedule of topics and readings (Schedule.md) and the license for the repo (in this case, a Creative Commons 4.0 license that allows reuse and modification, but requires that I be given attribution, and that the resulting work not be used commercially.) All of my in-class and homework exercises are stored in the weekly_materials folder, organized by week, and project assignments are in the projects folder. Everything in the subfolders is linked to from either the syllabus or the schedule--both of which are linked from the main navigation bar in myCourses. 
 
-What's *not* in the repo is anything with personally identifiable information about my students--classlists, grades, and discussions. All grade-related information, including online quizzes and dropboxes for assignments, is still in our LMS, and discussions have all moved to Slack. 
+As I noted in the introduction, what's *not* in the repo is anything with personally identifiable information about my students--classlists, grades, and discussions. All grade-related information, including online quizzes and dropboxes for assignments, is still in myCourses, and discussions have all moved to Slack. 
 
 ## What's an .md File?
 The .md extension on the files (including the one you're reading right now) refers to [Markdown](https://en.wikipedia.org/wiki/Markdown), a simple way of adding formatting to text files that doesn't require you to understand all the complexities of HTML in order to be able to format a page for display on the web. 
@@ -43,13 +43,7 @@ The .md extension on the files (including the one you're reading right now) refe
 
 GitHub has an excellent guide called ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/) that explains how Markdown works. 
 
-## Linking GitHub from the LMS
-One last note--my students already have far too many different tools and sites that they need to keep track of, and I wanted to be sure that I wasn't making things harder for them by moving my content to a new space.
-
-Our LMS allows us to modify the navigation bar for a course, so I used that functionality to remove the existing links to the "Content" and "Discussion" sections of the LMS and replace them with direct links to the syllabus and the schedule of topics/readings on GitHub, as well as to the Slack workspace). Same starting point, same number of clicks for students, but different destination for the links.
-
-![LMS navigation bar](images/lms-navbar.png)
-
+If there's time today, in the [Creating GitHub](creatingGithub.md) section I'll take you through the process of creating a simple Markdown file in your own repository.
 
 
 | [Previous: Introduction](introduction.md) | [Main Page](README.md) | [Next: Using Slack](usingSlack.md) |

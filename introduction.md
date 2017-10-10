@@ -22,31 +22,34 @@ Before we go any further, make sure you've created a free GitHub account (if you
 
 ## Slack
 
-At its core, Slack is a group messaging tool. It provides a group workspace with both public and private channels for discussion, private messaging capability, and file storage. Once you've created a Slack workspace, it can be accessed using either a web interface or one of their many clients for desktop and mobile devices.
+At its core, Slack is simply a group messaging tool. It provides a workspace with both public and private channels for discussion, private messaging capability, and file storage. Once you've created a Slack workspace, authorized users can access it using either a web interface or one of their many clients for desktop and mobile devices.
 
-There's a lot more to Slack than than text messaging, though, which is one of the reasons it has become so popular in business settings. (That's also why, even in the ["What is Slack?"](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) portion of their Getting Started guide, the description is pretty vague!) One of Slack's most powerful features is that it can be extended with a wide variety of apps that integrate it with other online services--from Google Docs and Dropbox to Trello and even GitHub. 
+There's a lot more to Slack than than text messaging, though, which is one of the reasons it has become so popular in business settings. (That's also why, even in the ["What is Slack?"](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) portion of their Getting Started guide, the description of the software is pretty vague!) One of Slack's most powerful features is that it can be extended with a wide variety of apps that integrate it with other online services--from Google Docs and Dropbox to Trello and even GitHub. I'll talk a bit today about how I use integrations with Slack in the classroom.
 
 ### Joining the Workshop Slack
-The best way to understand how Slack works is to actually play around with it, so I've created a workspace for this workshop. I've set it up so that anyone with an @rit.edu address can join it. https://ritworkshop-oct17.slack.com/messages  
+The best way to understand how Slack works is to use it, so I've created a workspace just for this workshop. I've set it up so that anyone with an @rit.edu address can join it. https://ritworkshop-oct17.slack.com/messages  
 
 >**Note**: If you already use Slack with another group or project, be aware that every Slack workspace is a completely separate instantiation--a login on one Slack workspace can't be used on any other workspace. This can also be confusing for students who are already using Slack for other purposes. You can be logged into different workspaces in different tabs on the same browser, though, and all of the Slack clients allow you to be logged into multiple workspaces. 
 
 Slack workspaces can also be set up with a generic invitation link for joining; those invitations expire after a set date. And/or you can generate individual invitations to specific email addresses. 
 
-Here's what my Mac desktop client looks like when I'm logged into the workspaces for both of my current classes and the one for this workspace:
+Here's what my Mac desktop client looks like when I'm logged into the workspaces for both of my current classes and the one for this workshop:
 
 ![Slack Workspace Screenshot](images/slack-workspace.png)
 
 I've done only a small amount of customization on this workspace. Click on the  **Channels** heading (the word itself, not the plus sign), to see a list of available channels in the workspace. In addition to the two channels (\#general and \#random) that are created by default in a new workspace, there should be three additional channels visible to you: \#introductions, \#github, and \#music-suggestions. Go ahead and join the \#introductions channel, and post a brief intro there. 
 
-After you've posted your intro, take a look at the \#github channel. This is an example of a Slack integration. I've set it up so that every time I send changes to the GitHub repo for the workshop, that information is automatically posted to this channel. In my classes, this lets students see if and when I've made changes to the syllabus or assignments--and what the short description of those changes are. 
+I'll talk more about how I use Slack, and how to customize it, in the [Using Slack](usingSlack.md) section of the workshop. In the meantime, however, feel free to use the \#general channel to chat about the session as we go along. (Full disclosure: I won't stay logged into this workspace after the workshop is over, so while you can continue to chat with other participants, you won't be able to ask me questions there. Feel free to email me, though!)
 
-You may also want to customize your notification settings for this Slack so you don't get overwhelmed with messages (that's particularly important if you're using a mobile client). 
+## MyCourses Integration and Student Privacy
+Our students already have far too many different tools and sites that they need to keep track of, and I wanted to be sure that I wasn't making things harder for them by moving my content to a new space. I also needed to make sure that I wasn't violating student privacy by making content public that shouldn't be
 
-![Slack notification settings](images/slack-notification-settings.png
-)
+myCourses allows us to modify the navigation bar for a course, so I used that functionality to remove the existing links to the "Content" and "Discussion" sections, and replace them with direct links to the syllabus and the schedule of topics/readings on GitHub, as well as to the Slack workspace. Same starting point, same number of clicks for students, but different destination for the links.
 
-Feel free to use the \#general channel to chat about the session as we go along. (Full disclosure: I won't stay logged into this workspace after the workshop is over, so while you can continue to chat with other participants, you won't be able to ask me questions there. Feel free to email me, though!)
+![LMS navigation bar](images/lms-navbar.png)
+
+I still keep all personally identifiable information--classlists, grades, etc--in myCourses. I limit access to the class Slack to people with @rit.edu addresses for the first week to make it easy for students to sign up, and then change it to invitation-only after add/drop has ended. 
+
 
 | [Main Page](README.md) | [Next: Using GitHub for Course Materials](usingGithub.md) |
 |--------------------------------|-----------------------------------------------------|

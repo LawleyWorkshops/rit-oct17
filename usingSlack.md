@@ -30,11 +30,11 @@ To address that problem, I renamed the \#general channel (which all new users ar
 ![Class announcements channel](images/slack-classroom-announcements.png)
 
 ### Introductory Exercise
-The first week of class I assign an exercise that requires students to create an account on the class Slack, and post an introduction. In my web design class where I'll need to add their GitHub usernames to a class group, I use the introduction to have them give me their username.
+The first week of class I assign an exercise that requires students to create an account on the class Slack, and post an introduction. In my web design class, where I'll need to add their GitHub usernames to a class group, I use the introduction to have them give me their username.
 
 ![Slack intros](images/slack-classroom-intros.png)
 
-I also strongly encourage them to install the mobile client on their phones--and to make that idea more palatable I walk them through the various options Slack provides for limiting notifications. You can mute entire channels, set do not disturb times, or tell Slack only to notify you if you're referenced by name, or a specific keyword is used.  
+In the exercise (and in class), I also strongly encourage them to install the mobile client on their phones. To make that idea more palatable, I walk them through the various options Slack provides for limiting notifications. You can mute entire channels, set do not disturb times, or tell Slack only to notify you if you're referenced by name, or a specific keyword is used.  
 
 ![Slack notification settings](images/slack-notification-settings.png
 )
@@ -46,10 +46,10 @@ In each class workspace, I create at least one non-classwork channel that invite
 
 ![Slack music suggestions](images/slack-classroom-music.png)
 
-Be aware that anyone in the workspace can create their own public (open to anyone in the workspace) or private (by invitation only) channels. When I first showed my freshmen the music channel, and explained that they could also make channels of their own, one of them immediately decided to make a \#dankmemes channel! This provided an excellent opportunity for me to talk about appropriate vs inappropriate use of social media in work and school contexts...
+Be aware that anyone in the workspace can create their own public (open to anyone in the workspace) or private (by invitation only) channels. When I first showed my freshmen the music channel, and explained that they could also make channels of their own, one of them immediately decided to make a \#dankmemes channel! This did provide an excellent opportunity for me to talk about appropriate vs inappropriate use of social media in work and school contexts, but in retrospect I probably should have talked about that *before* telling them how to make channels.
 
 ### Slack-Only Opportunities
-I tell students that they're welcome to continue using email to contact for me for course related issues, and that after the initial introduction exercise is done they can choose not to check Slack again. However, I also do offer some "bonus" opportunities for those who do use Slack--for instance, when I recently offered my web design students the opportunity to resubmit a project for an improved grade, I told them that they needed to contact me via Slack (and include a link) to request that I regrade their revision.
+I tell students that they're welcome to continue using email to contact for me for course-related issues, and that after they've completed the initial introduction exercise they can choose not to check Slack again. However, I also do offer some "bonus" opportunities for those who do use Slack--for instance, when I recently offered my web design students the opportunity to resubmit a project for an improved grade, I told them that they needed to contact me via Slack (and include a link) to request that I regrade their revision.
 
 ### Integrating Helpful Apps
 Take a look at the \#github channel in our workspace. This is an example of a Slack integration. I've set it up so that every time I send changes to the GitHub repo for the workshop, that information is automatically posted to this channel. In my classes, this lets students see if and when I've made changes to the syllabus or assignments--and what the short description of those changes are. 
@@ -59,7 +59,7 @@ Other integrations I've used in my classes include Google Docs (which makes it e
 These integrations tend to be most helpful for group projects. In order to keep tabs on how groups are doing, I create private Slack channels for each group and ask them to use that--rather than texting, FB messenger, or other chat tools. That allows me to respond to questions or problems in the group, and also makes it easy for them to set up specific integrations with their groups' Google Docs, Dropbox folders, and/or Trello projects. 
 
 ### Commitment to Quick Responses
-Most importantly, I've committed to responding quickly to student messages. I have the Slack client on my phone's home screen, and I check for new notifications at least twice a day. If a message can be answered quickly, I do it then. If not, I acknowledge it, let them know I'll get back to them, and mark it with a star for later access. When I have a little more time, I go through my starred messages and respond in more depth. 
+Most importantly, I've committed to responding quickly to student messages. I have the Slack client on my phone's home screen, and if I see new notifications on the icon, I try to look at them quickly. If a message can be answered quickly, I do it then. If not, I acknowledge receiving it, let them know I'll get back to them, and mark it with a star for later access. When I have a little more time, I go through my starred messages and respond in more depth. 
 
 (The example below also shows how easy it is for them to share code with me in their messages.)
 

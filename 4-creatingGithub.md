@@ -26,19 +26,30 @@ If you look at the top of any page in [the class repo](https://github.com/Lawley
 
 There's a lot of information to unpack here, but for now we'll just look at the "Forks" section, which shows you the users who forked this repo (ritgig and rachmiel are both teaching sections of the class this semester; kheintzscu attended a workshop I gave at the DML conference earlier this month), and provides links to their forked copies. 
 
-![GitHub fork count](images/github-forks.png)
+![GitHub fork list](images/github-forks.png)
 
 All of those users are now able to modify their copies for use in their own classes. If they make a change that they think I'd like to incorporate into my original--like correcting a typo, or adding a link to a new reading--they can do that by creating something called a "pull request." 
 
-![GitHub fork count](images/github-pull-request.png)
+![GitHub pull request](images/github-pull-request.png)
 
 Why "pull" and not "push"? Because they don't have permission to push content into my repository. Instead, they save the changes to a "branch" of their own repository (a temporary copy in which you can store changes that you're not yet sure you want to incorporate into your own code), and then generate a request that asks me to pull that change into my own copy. I can choose to accept that request and incorporate their changes, or to reject it. 
 
 In my advanced classes, I also encourage my students to fork their own copy of the class materials and submit pull requests when they find errors in them. This serves multiple purposes: (1)it's helpful to me, (2) it gives them a sense of agency in making the materials better, and (3) it models behavior that will be important in real-world development contexts, both at work and in contributions to open source software. 
 
-Want to try forking a repository yourself? If you're logged into your GitHub account, you can click on the word "Fork" at the top of this page and it will make a copy of these workshop materials in your own GitHub account. You can then edit those materials in whatever way you'd like--you can even submit pull requests to ask me to incorporate your changes into my repository. 
+## Editing and Creating Files
+Want to try forking a repository yourself, and editing the files? If you're logged into your GitHub account, you can click on the word "Fork" at the top of this page and it will make a copy of these workshop materials in your own GitHub account. It will look just like this repository, but if you look in the top left corner, you should see that it now shows as being under your account, with a link below that pointing to my original repo. 
 
-Note: Keeping your personal copy of a repository in sync with the changes made to the original is a little more complicated, and beyond the scope of this workshop. Advanced users can read a bit about it in this [Stack Overflow Q&A](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository). 
+![GitHub forked repo](images/github-forked-copy.png)
+
+Click on the name of the README.md file in the list, and then click on the pencil icon in the top right corner.
+
+![GitHub edit file](images/github-edit.png)
+
+What you'll see is the Markdown file with the page content. A top-level heading is indicated with a single \#, a second-level heading with \#\#, etc. 
+
+Links are indicated by placing the link text in square brackets, and placing the destination link in parens directly after it. 
+
+You can find an excellent guide to ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/), with examples of other formatting codes, on the GitHub site. 
 
 ## GitHub "Organizations"
 

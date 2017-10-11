@@ -1,4 +1,4 @@
-| [Previous: Creating GitHub Content](creating GitHub.md) | [Main Page](README.md) |
+| [Previous: Creating GitHub Content](4-creatingGithub.md) | [Main Page](README.md) |
 |--------------------------------|-----------------------------|
 
 # Creating Your Own Class Slack Workspace
@@ -11,10 +11,10 @@ The good news is that those limitations haven't impacted Slack's usefulness in m
 
 Slack provides a very good [Getting started for workspace creators](https://get.slack.help/hc/en-us/articles/217626298-Getting-started-for-workspace-creators) guide, which walks you through the specifics of setting up a new Slack workspace.
 
-Once your workspace has been created, I suggest going back to the [Using Slack](usingSlack) page to review the ways I've customized my Slack workspace for use in classroom settings. 
+Once your workspace has been created, I suggest going back to the [Using Slack](3-usingSlack.md) page to review the ways I've customized my Slack workspace for use in classroom settings. 
 
 
-| [Previous: Creating GitHub Content](creating GitHub.md) | [Main Page](README.md) |
+| [Previous: Creating GitHub Content](4-creatingGithub.md) | [Main Page](README.md) |
 |--------------------------------|-----------------------------|
 
 ***This page is part of Liz Lawley's "RIT Teachers on Teaching" workshop, 11 October 2017***

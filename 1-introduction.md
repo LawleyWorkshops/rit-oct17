@@ -1,4 +1,4 @@
-| [Main Page](README.md) | [Next: Using GitHub for Course Materials](usingGithub.md) |
+| [Main Page](README.md) | [Next: Using GitHub for Course Materials](2-usingGithub.md) |
 |--------------------------------|-----------------------------------------------------|
 # 1. Introduction: Understanding GitHub and Slack
 
@@ -39,7 +39,7 @@ Here's what my Mac desktop client looks like when I'm logged into the workspaces
 
 I've done only a small amount of customization on this workspace. Click on the  **Channels** heading (the word itself, not the plus sign), to see a list of available channels in the workspace. In addition to the two channels (\#general and \#random) that are created by default in a new workspace, there should be three additional channels visible to you: \#introductions, \#github, and \#music-suggestions. Go ahead and join the \#introductions channel, and post a brief intro there. 
 
-I'll talk more about how I use Slack, and how to customize it, in the [Using Slack](usingSlack.md) section of the workshop. In the meantime, however, feel free to use the \#general channel to chat about the session as we go along. (Full disclosure: I won't stay logged into this workspace after the workshop is over, so while you can continue to chat with other participants, you won't be able to ask me questions there. Feel free to email me, though!)
+I'll talk more about how I use Slack, and how to customize it, in the [Using Slack](3-usingSlack.md) section of the workshop. In the meantime, however, feel free to use the \#general channel to chat about the session as we go along. (Full disclosure: I won't stay logged into this workspace after the workshop is over, so while you can continue to chat with other participants, you won't be able to ask me questions there. Feel free to email me, though!)
 
 ## MyCourses Integration and Student Privacy
 Our students already have far too many different tools and sites that they need to keep track of, and I wanted to be sure that I wasn't making things harder for them by moving my content to a new space. I also needed to make sure that I wasn't violating student privacy by making personally identifiable information public.
@@ -51,7 +51,7 @@ MyCourses allows faculty to modify the navigation bar for a course, so I used th
 I still keep all personally identifiable information--classlists, grades, etc--in myCourses. I also limit access to the class Slack to people with @rit.edu addresses for the first week to make it easy for students to sign up, and then change it to invitation-only after add/drop has ended. 
 
 
-| [Main Page](README.md) | [Next: Using GitHub for Course Materials](usingGithub.md) |
+| [Main Page](README.md) | [Next: Using GitHub for Course Materials](2-usingGithub.md) |
 |--------------------------------|-----------------------------------------------------|
 
 

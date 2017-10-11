@@ -1,4 +1,4 @@
-| [Previous: Using GitHub](usingGithub.md) | [Main Page](README.md) | [Next: Creating GitHub Content](creatingGithub.md) |
+| [Previous: Using GitHub](2-usingGithub.md) | [Main Page](README.md) | [Next: Creating GitHub Content](4-creatingGithub.md) |
 |--------------------------------|-----------------------------|------------------------|
 
 # 3. Using Slack for Class Communication
@@ -70,7 +70,7 @@ I have not stopped using email for communicating with students, of course. Anyth
 
 Ideally, though, I want my students to see Slack as an easy and non-threatening environment to ask questions, make comments, and get help. I tell them (and it's true) that it allows me to prioritize their messages over the piles of email that I get on a daily basis. And I've found that once I get them over the adoption hump, most of them appreciate Slack's informality and ephemerality. Most importantly, I hear from far more students who have questions or concerns than I did in the past. 
 
-| [Previous: Using GitHub](usingGithub.md) | [Main Page](README.md) | [Next: Creating GitHub Content](creatingGithub.md) |
+| [Previous: Using GitHub](2-usingGithub.md) | [Main Page](README.md) | [Next: Creating GitHub Content](4-creatingGithub.md) |
 |--------------------------------|-----------------------------|------------------------|
 
 ***This page is part of Liz Lawley's "RIT Teachers on Teaching" workshop, 11 October 2017***

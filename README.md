@@ -8,19 +8,19 @@ In this session, I'll show you how you can use GitHub to make your course materi
 
 ## Outline of Topics
 
-### 1. [Introduction: Understanding GitHub and Slack](introduction.md)
+### 1. [Introduction: Understanding GitHub and Slack](1-introduction.md)
 We'll start with some basic definitions. What *are* GitHub and Slack, exactly? What are they used for, and by whom? If you don't already have a GitHub account, you'll create one, and I'll have you join the Slack workspace I've created for this workshop. 
 
-### 2. [Using GitHub for Course Materials](usingGithub.md)
+### 2. [Using GitHub for Course Materials](2-usingGithub.md)
 You're currently using the GitHub repo that I set up for this workshop. I'll take you on a quick tour of this one, and of one I use in a non-code-focused freshman class, and explain why I've chosen to use GitHub rather than our university's LMS or my own website to distribute course materials. 
 
-### 3. [Using Slack for Class Communication](usingSlack.md)
+### 3. [Using Slack for Class Communication](3-usingSlack.md)
 Before I show you how to create your own content on GitHub, we'll talk about why I use Slack for individual and group communication in my classes. You'll join a Slack workspace I've set up for this workshop, which you can then use to post questions and comments as we get into the more technical details of the two systems.  
 
-### 4. [Creating Content on GitHub](creatingGithub.md)
+### 4. [Creating Content on GitHub](4-creatingGithub.md)
 I'll show you how to copy and modify an existing repo, and how to create a completely new repo in your personal GitHub account. I'll also talk about the educational discounts available for both students and teachers. 
 
-### 5. [Creating Your Own Class Slack Workspace](creatingSlack.md)
+### 5. [Creating Your Own Class Slack Workspace](5-creatingSlack.md)
 If there's time, I'll also walk you through the process of creating and customizing a new Slack workspace for use in your classroom. 
 
 

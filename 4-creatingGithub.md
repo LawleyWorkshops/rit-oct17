@@ -1,4 +1,4 @@
-| [Previous: Using Slack](usingSlack.md) | [Main Page](README.md) | [Next: Creating a Slack Workspace](creatingSlack.md) |
+| [Previous: Using Slack](3-usingSlack.md) | [Main Page](README.md) | [Next: Creating a Slack Workspace](5-creatingSlack.md) |
 |--------------------------------|-----------------------------|------------------------|
 
 # Creating Content on GitHub
@@ -46,7 +46,7 @@ You may have noticed that these course materials aren't in my [personal GitHub a
 
 Since GitHub doesn't allow you to create any kind of organizational structure (like folders/directories) to group repositories in your account, organizations are currently the only way to group related content together. We won't have time to talk about organizations today, but if you start using GitHub on a regular basis, you may want to consider using organizations to group repositories for specific classes or semesters. If you do this, and want to include private repositories, you will also need to apply for an educational discount for each organization.
 
-| [Previous: Using Slack](usingSlack.md) | [Main Page](README.md) | [Next: Creating a Slack Workspace](creatingSlack.md) |
+| [Previous: Using Slack](3-usingSlack.md) | [Main Page](README.md) | [Next: Creating a Slack Workspace](5-creatingSlack.md) |
 |--------------------------------|-----------------------------|------------------------|
 
 ***This page is part of Liz Lawley's "RIT Teachers on Teaching" workshop, 11 October 2017***

@@ -1,4 +1,4 @@
-| [Previous Page: 1. Introduction](introduction.md) | [Back to Main Page](README.md) | [Next Page: 3. Using Slack](usingSlack.md) |
+| [Previous: 1. Introduction](1-introduction.md) | [Back to Main Page](README.md) | [Next Page: 3. Using Slack](3-usingSlack.md) |
 |--------------------------------|-----------------------------|------------------------|
 
 # 2. Using GitHub for Course Materials
@@ -43,10 +43,10 @@ The .md extension on the files (including the one you're reading right now) refe
 
 GitHub has an excellent guide called ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/) that explains how Markdown works. 
 
-If there's time today, in the [Creating GitHub](creatingGithub.md) section I'll take you through the process of creating a simple Markdown file in your own repository.
+If there's time today, in the [Creating GitHub](4-creatingGithub.md) section I'll take you through the process of creating a simple Markdown file in your own repository.
 
 
-| [Previous: Introduction](introduction.md) | [Main Page](README.md) | [Next: Using Slack](usingSlack.md) |
+| [Previous: Introduction](1-introduction.md) | [Main Page](README.md) | [Next: Using Slack](3-usingSlack.md) |
 |--------------------------------|-----------------------------|------------------------|
 
 ***This page is part of Liz Lawley's "RIT Teachers on Teaching" workshop, 11 October 2017***

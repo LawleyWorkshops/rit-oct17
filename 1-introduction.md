@@ -22,9 +22,9 @@ Before we go any further, make sure you've created a free GitHub account (if you
 
 ## Slack
 
-At its core, Slack is simply a group messaging tool. It provides a workspace with both public and private channels for discussion, private messaging capability, and file storage. Once you've created a Slack workspace, authorized users can access it using either a web interface or one of their many clients for desktop and mobile devices.
+Slack is currently one of the most widely-used group messaging and collaboration tools in technology-focused buseinsses. A Slack workspace provides groups with both public and private channels for discussion, private messaging capability, and file storage/sharing. Authorized users can access the workspace via either a web interface or a dedicated desktop or mobile client application.  
 
-There's a lot more to Slack than than text messaging, though, which is one of the reasons it has become so popular in business settings. (That's also why, even in the ["What is Slack?"](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) portion of their Getting Started guide, the description of the software is pretty vague!) One of Slack's most powerful features is that it can be extended with a wide variety of apps that integrate it with other online services--from Google Docs and Dropbox to Trello and even GitHub. I'll talk a bit today about how I use integrations with Slack in the classroom.
+There's a lot more to Slack than than text messaging, though, which is one of the reasons it has become so popular in business settings. (That's also why, even in the ["What is Slack?"](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) portion of their Getting Started guide, the description of the software is pretty vague!) One of Slack's most powerful features is that it can be extended with a wide variety of apps that integrate it with other online services--from Google Docs and Dropbox to Trello and even GitHub. I'll talk a bit today about how I use some of those Slack integrations in the classroom.
 
 ### Joining the Workshop Slack
 The best way to understand how Slack works is to use it, so I've created a workspace just for this workshop. I've set it up so that anyone with an @rit.edu address can join it. https://ritworkshop-oct17.slack.com/messages  

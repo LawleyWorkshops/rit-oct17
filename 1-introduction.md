@@ -22,16 +22,18 @@ Before we go any further, make sure you've created a free GitHub account (if you
 
 ## Slack
 
-Slack is currently one of the most widely-used group messaging and collaboration tools in technology-focused buseinsses. A Slack workspace provides groups with both public and private channels for discussion, private messaging capability, and file storage/sharing. Authorized users can access the workspace via either a web interface or a dedicated desktop or mobile client application.  
+[Slack](http://slack.com) is currently one of the most widely-used group messaging and collaboration tools in technology-focused buseinsses. A Slack workspace provides groups with both public and private channels for discussion, private messaging capability, and file storage/sharing. Authorized users can access the workspace via either a web interface or a dedicated desktop or mobile client application.  
 
 There's a lot more to Slack than than text messaging, though, which is one of the reasons it has become so popular in business settings. (That's also why, even in the ["What is Slack?"](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) portion of their Getting Started guide, the description of the software is pretty vague!) One of Slack's most powerful features is that it can be extended with a wide variety of apps that integrate it with other online services--from Google Docs and Dropbox to Trello and even GitHub. I'll talk a bit today about how I use some of those Slack integrations in the classroom.
 
 ### Joining the Workshop Slack
-The best way to understand how Slack works is to use it, so I've created a workspace just for this workshop. I've set it up so that anyone with an @rit.edu address can join it. https://ritworkshop-oct17.slack.com/messages  
+The best way to understand how Slack works is to use it, so I've created a workspace just for this workshop. I've set it up so that anyone with an @rit.edu address can join it. https://ritworkshop-oct17.slack.com/ 
+
+(Slack workspaces can also be set up with a generic invitation link for joining; those invitations expire after a set date. You can also generate individual invitations to specific email addresses.)
+
+Slack has a very good [guide to getting started in a workspace](https://get.slack.help/hc/en-us/articles/218080037), but the signup process is pretty straightforward.  
 
 >**Note**: If you already use Slack with another group or project, be aware that every Slack workspace is a completely separate instantiation--a login on one Slack workspace can't be used on any other workspace. This can also be confusing for students who are already using Slack for other purposes. You can be logged into different workspaces in different tabs on the same browser, though, and all of the Slack clients allow you to be logged into multiple workspaces. 
-
-Slack workspaces can also be set up with a generic invitation link for joining; those invitations expire after a set date. And/or you can generate individual invitations to specific email addresses. 
 
 Here's what my Mac desktop client looks like when I'm logged into the workspaces for both of my current classes and the one for this workshop:
 
